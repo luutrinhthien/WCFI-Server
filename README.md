@@ -13,3 +13,4 @@ npx hardhat run scripts/deploy.js
 ```
 # WCFI-Server
 # WCFI-Server
+# WFCI-Smart-Contract
