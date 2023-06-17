@@ -1,0 +1,19 @@
+{
+    "name": "Argentina",
+    "description": "Mint randomly releases NFT shoes to represent the national team",
+    "image": "https://ipfs.io/ipfs/Qmd5rHRVP2pngQnn5ednAyfkZwYjZ9pVwjPVf6SurvyGAv/Tier1/Argentina.png",
+    "attributes": [
+        {
+            "trait_type": "id",
+            "value": "06"
+        },
+        {
+            "trait_type": "tier",
+            "value": "1"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "0.19"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Multi",
+    "description": "This is database NFT",
+    "image": "https://ipfs.io/ipfs/QmPhSeqzyAcFurUnRDNbmRe7bL3ktNUg3YyXdz2r86x6ur",
+    "attributes": [
+        {
+            "trait_type": "id",
+            "value": "01"
+        },
+        {
+            "trait_type": "name",
+            "value": "Brazil"
+        },
+        {
+            "trait_type": "power",
+            "value": "4",
+            "max_value": "4"
+        }
+    ]
+}

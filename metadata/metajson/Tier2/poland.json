@@ -1,0 +1,19 @@
+{
+    "name": "Poland",
+    "description": "Mint randomly releases NFT shoes to represent the national team",
+    "image": "https://ipfs.io/ipfs/Qmd5rHRVP2pngQnn5ednAyfkZwYjZ9pVwjPVf6SurvyGAv/Tier2/Poland.png",
+    "attributes": [
+        {
+            "trait_type": "id",
+            "value": "13"
+        },
+        {
+            "trait_type": "tier",
+            "value": "2"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "1.21"
+        }
+    ]
+}

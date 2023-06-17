@@ -1,0 +1,19 @@
+{
+    "name": "Canada",
+    "description": "Mint randomly releases NFT shoes to represent the national team",
+    "image": "https://ipfs.io/ipfs/Qmd5rHRVP2pngQnn5ednAyfkZwYjZ9pVwjPVf6SurvyGAv/Tier3/Canada.png",
+    "attributes": [
+        {
+            "trait_type": "id",
+            "value": "24"
+        },
+        {
+            "trait_type": "tier",
+            "value": "3"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "4.66"
+        }
+    ]
+}

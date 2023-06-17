@@ -1,0 +1,20 @@
+{
+    "name": "Single",
+    "description": "This is database NFT",
+    "image": "https://ipfs.io/ipfs/QmSyCgMH1TuLmdfBunghGx98PhAKTMspp2MRc2opzdD5h2",
+    "attributes": [
+        {
+            "trait_type": "id",
+            "value": "01"
+        },
+        {
+            "trait_type": "name",
+            "value": "France"
+        },
+        {
+            "trait_type": "power",
+            "value": "1",
+            "max_value": "4"
+        }
+    ]
+}
