@@ -77,7 +77,7 @@ contract WCFIMarketplace is IERC721Receiver, Ownable {
         //     _nft.getApproved(tokenId) == address(this),
         //     "Marketplace is not approved to transfer this NFT"
         // );
-        require(msg.value >= (price * 1 wei), "Insufficient payment");
+        // require(msg.value >= (price * 1 wei), "Insufficient payment");
 
         _listDetail[tokenId] = ListDetail(payable(msg.sender), price, tokenId);
 
