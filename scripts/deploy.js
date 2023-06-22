@@ -9,7 +9,7 @@ async function main() {
 
   // NFT main !important:         0x2F7f03CE934e7eA998F23C11925571C0e42C18bD
 
-  // Marketplace main !important: 0x23Fad58d96b38e6fD3D80A72369f0DA759Dcf596
+  // Marketplace main !important: 0x1f89A8596F1232D2Aacc9aF0aBa153489dEb30DE
 
   const NFTmarketplace = await hre.ethers.getContractFactory("WCFIMarketplace");
   const marketplace = await NFTmarketplace.deploy("0x2F7f03CE934e7eA998F23C11925571C0e42C18bD");
