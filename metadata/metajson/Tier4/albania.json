@@ -1,7 +1,7 @@
 {
-    "name": "Wales",
+    "name": "Albania",
     "description": "Mint randomly releases NFT shoes to represent the national team",
-    "image": "https://ipfs.io/ipfs/Qmd5rHRVP2pngQnn5ednAyfkZwYjZ9pVwjPVf6SurvyGAv/Tier3/Wales.png",
+    "image": "https://ipfs.io/ipfs/bafybeiawf23akrcbje4q7ggdbwquxgciuq65sjin3ujn5cnvtsjtkzhmoi/Tier 4/Albania.png",
     "attributes": [
         {
             "trait_type": "id",
@@ -9,11 +9,11 @@
         },
         {
             "trait_type": "tier",
-            "value": "3"
+            "value": "4"
         },
         {
             "trait_type": "rarity",
-            "value": "1.86"
+            "value": "4.66"
         }
     ]
 }

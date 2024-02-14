@@ -1,19 +1,19 @@
 {
-    "name": "Cameroon",
+    "name": "Turkey",
     "description": "Mint randomly releases NFT shoes to represent the national team",
-    "image": "https://ipfs.io/ipfs/Qmd5rHRVP2pngQnn5ednAyfkZwYjZ9pVwjPVf6SurvyGAv/Tier3/Cameroon.png",
+    "image": "https://ipfs.io/ipfs/bafybeiawf23akrcbje4q7ggdbwquxgciuq65sjin3ujn5cnvtsjtkzhmoi/Tier 1/Turkey.png",
     "attributes": [
         {
             "trait_type": "id",
-            "value": "23"
+            "value": "04"
         },
         {
             "trait_type": "tier",
-            "value": "3"
+            "value": "1"
         },
         {
             "trait_type": "rarity",
-            "value": "4.66"
+            "value": "0.19"
         }
     ]
 }

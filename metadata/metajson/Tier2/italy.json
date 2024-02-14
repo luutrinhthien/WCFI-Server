@@ -1,19 +1,19 @@
 {
-    "name": "Saudi Arabia",
+    "name": "Italy",
     "description": "Mint randomly releases NFT shoes to represent the national team",
-    "image": "https://ipfs.io/ipfs/Qmd5rHRVP2pngQnn5ednAyfkZwYjZ9pVwjPVf6SurvyGAv/Tier4/SaudiArabia.png",
+    "image": "https://ipfs.io/ipfs/bafybeiawf23akrcbje4q7ggdbwquxgciuq65sjin3ujn5cnvtsjtkzhmoi/Tier 2/italy.png",
     "attributes": [
         {
             "trait_type": "id",
-            "value": "31"
+            "value": "10"
         },
         {
             "trait_type": "tier",
-            "value": "4"
+            "value": "2"
         },
         {
             "trait_type": "rarity",
-            "value": "9.32"
+            "value": "0.93"
         }
     ]
 }

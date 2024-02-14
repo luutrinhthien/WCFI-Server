@@ -1,19 +1,19 @@
 {
-    "name": "Costa Rica",
+    "name": "Czech Republic",
     "description": "Mint randomly releases NFT shoes to represent the national team",
-    "image": "https://ipfs.io/ipfs/Qmd5rHRVP2pngQnn5ednAyfkZwYjZ9pVwjPVf6SurvyGAv/Tier4/CostaRica.png",
+    "image": "https://ipfs.io/ipfs/bafybeiawf23akrcbje4q7ggdbwquxgciuq65sjin3ujn5cnvtsjtkzhmoi/Tier 3/Czech.png",
     "attributes": [
         {
             "trait_type": "id",
-            "value": "32"
+            "value": "16"
         },
         {
             "trait_type": "tier",
-            "value": "4"
+            "value": "3"
         },
         {
             "trait_type": "rarity",
-            "value": "18.64"
+            "value": "2.80"
         }
     ]
 }

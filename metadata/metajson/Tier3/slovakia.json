@@ -1,19 +1,19 @@
 {
-    "name": "Japan",
+    "name": "Slovakia",
     "description": "Mint randomly releases NFT shoes to represent the national team",
-    "image": "https://ipfs.io/ipfs/Qmd5rHRVP2pngQnn5ednAyfkZwYjZ9pVwjPVf6SurvyGAv/Tier4/Japan.png",
+    "image": "https://ipfs.io/ipfs/bafybeiawf23akrcbje4q7ggdbwquxgciuq65sjin3ujn5cnvtsjtkzhmoi/Tier 3/slovakia.png",
     "attributes": [
         {
             "trait_type": "id",
-            "value": "25"
+            "value": "15"
         },
         {
             "trait_type": "tier",
-            "value": "4"
+            "value": "3"
         },
         {
             "trait_type": "rarity",
-            "value": "4.66"
+            "value": "1.86"
         }
     ]
 }

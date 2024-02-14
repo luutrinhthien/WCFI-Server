@@ -1,19 +1,19 @@
 {
-    "name": "Ecuador",
+    "name": "Romania",
     "description": "Mint randomly releases NFT shoes to represent the national team",
-    "image": "https://ipfs.io/ipfs/Qmd5rHRVP2pngQnn5ednAyfkZwYjZ9pVwjPVf6SurvyGAv/Tier3/Ecuador.png",
+    "image": "https://ipfs.io/ipfs/bafybeiawf23akrcbje4q7ggdbwquxgciuq65sjin3ujn5cnvtsjtkzhmoi/Tier 2/Romania.png",
     "attributes": [
         {
             "trait_type": "id",
-            "value": "21"
+            "value": "11"
         },
         {
             "trait_type": "tier",
-            "value": "3"
+            "value": "2"
         },
         {
             "trait_type": "rarity",
-            "value": "2.80"
+            "value": "1.21"
         }
     ]
 }

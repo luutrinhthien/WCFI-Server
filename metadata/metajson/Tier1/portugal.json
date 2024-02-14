@@ -1,11 +1,11 @@
 {
     "name": "Portugal",
     "description": "Mint randomly releases NFT shoes to represent the national team",
-    "image": "https://ipfs.io/ipfs/Qmd5rHRVP2pngQnn5ednAyfkZwYjZ9pVwjPVf6SurvyGAv/Tier1/Portugar.png",
+    "image": "https://ipfs.io/ipfs/bafybeiawf23akrcbje4q7ggdbwquxgciuq65sjin3ujn5cnvtsjtkzhmoi/Tier 1/portugar.png",
     "attributes": [
         {
             "trait_type": "id",
-            "value": "08"
+            "value": "06"
         },
         {
             "trait_type": "tier",

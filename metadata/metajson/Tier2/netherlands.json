@@ -1,11 +1,11 @@
 {
     "name": "Netherlands",
     "description": "Mint randomly releases NFT shoes to represent the national team",
-    "image": "https://ipfs.io/ipfs/Qmd5rHRVP2pngQnn5ednAyfkZwYjZ9pVwjPVf6SurvyGAv/Tier2/Nederland.png",
+    "image": "https://ipfs.io/ipfs/bafybeiawf23akrcbje4q7ggdbwquxgciuq65sjin3ujn5cnvtsjtkzhmoi/Tier 2/netherlands.png",
     "attributes": [
         {
             "trait_type": "id",
-            "value": "09"
+            "value": "07"
         },
         {
             "trait_type": "tier",

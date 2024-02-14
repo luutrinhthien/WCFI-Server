@@ -1,11 +1,11 @@
 {
     "name": "England",
     "description": "Mint randomly releases NFT shoes to represent the national team",
-    "image": "https://ipfs.io/ipfs/Qmd5rHRVP2pngQnn5ednAyfkZwYjZ9pVwjPVf6SurvyGAv/Tier1/England.png",
+    "image": "https://ipfs.io/ipfs/bafybeiawf23akrcbje4q7ggdbwquxgciuq65sjin3ujn5cnvtsjtkzhmoi/Tier 1/england.png",
     "attributes": [
         {
             "trait_type": "id",
-            "value": "03"
+            "value": "02"
         },
         {
             "trait_type": "tier",

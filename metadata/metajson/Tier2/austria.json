@@ -1,11 +1,11 @@
 {
-    "name": "Serbia",
+    "name": "Austria",
     "description": "Mint randomly releases NFT shoes to represent the national team",
-    "image": "https://ipfs.io/ipfs/Qmd5rHRVP2pngQnn5ednAyfkZwYjZ9pVwjPVf6SurvyGAv/Tier2/Serbia.png",
+    "image": "https://ipfs.io/ipfs/bafybeiawf23akrcbje4q7ggdbwquxgciuq65sjin3ujn5cnvtsjtkzhmoi/Tier 2/Austria.png",
     "attributes": [
         {
             "trait_type": "id",
-            "value": "16"
+            "value": "08"
         },
         {
             "trait_type": "tier",
@@ -13,7 +13,7 @@
         },
         {
             "trait_type": "rarity",
-            "value": "1.49"
+            "value": "0.52"
         }
     ]
 }
